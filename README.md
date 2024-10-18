@@ -35,7 +35,7 @@ The topic of this project is data quality, specifically the quality of metadata 
   - SCOPUS Authors
   - SCOPUS ID
 
-## Deliverable
+## Deliverables
 
 1. After disambiguating the authors and institutions, re-match between Scopus and OpenAlex.
     - How much of Rafael's Venn diagram was noise?
